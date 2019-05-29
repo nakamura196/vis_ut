@@ -1,0 +1,44 @@
+[
+    {
+        "count": 20908,
+        "index": 0,
+        "label": "Book",
+        "url": "http://ndl.go.jp/ndltype/Book",
+        "value": "Book"
+    },
+    {
+        "count": 6110,
+        "index": 3,
+        "label": "Stillimage",
+        "url": "http://ndl.go.jp/ndltype/StillImage",
+        "value": "StillImage"
+    },
+    {
+        "count": 1395,
+        "index": 2,
+        "label": "Chineseclassicalbook",
+        "url": "http://ndl.go.jp/ndltype/ChineseClassicalBook",
+        "value": "ChineseClassicalBook"
+    },
+    {
+        "count": 1005,
+        "index": 4,
+        "label": "Newspaper",
+        "url": "http://ndl.go.jp/ndltype/Newspaper",
+        "value": "Newspaper"
+    },
+    {
+        "count": 104,
+        "index": 1,
+        "label": "Japaneseclassicalbook",
+        "url": "http://ndl.go.jp/ndltype/JapaneseClassicalBook",
+        "value": "JapaneseClassicalBook"
+    },
+    {
+        "count": 1,
+        "index": 5,
+        "label": "Journal",
+        "url": "http://ndl.go.jp/ndltype/Journal",
+        "value": "Journal"
+    }
+]
