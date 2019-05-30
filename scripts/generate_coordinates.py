@@ -25,10 +25,10 @@ MIN_GROUP_ROWS = int(sys.argv[8])
 
 # init
 coords = {
-    'centuries': [],
     'genres': [],
     'collections': [],
-    'colors': []
+    'colors': [],
+    'centuries': []
 }
 
 def getItemsIds(the_group, the_items):
