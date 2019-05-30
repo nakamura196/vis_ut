@@ -1,5 +1,289 @@
 [
     {
+        "id": "genres",
+        "label": "Genre",
+        "markers": [
+            {
+                "count": 20911,
+                "h": 2100,
+                "label": "Book",
+                "url": "http://ndl.go.jp/ndltype/Book",
+                "value": "Book"
+            },
+            {
+                "count": 6092,
+                "h": 610,
+                "label": "Stillimage",
+                "url": "http://ndl.go.jp/ndltype/StillImage",
+                "value": "StillImage"
+            },
+            {
+                "count": 1395,
+                "h": 140,
+                "label": "Chineseclassicalbook",
+                "url": "http://ndl.go.jp/ndltype/ChineseClassicalBook",
+                "value": "ChineseClassicalBook"
+            },
+            {
+                "count": 1005,
+                "h": 110,
+                "label": "Newspaper",
+                "url": "http://ndl.go.jp/ndltype/Newspaper",
+                "value": "Newspaper"
+            },
+            {
+                "count": 124,
+                "h": 30,
+                "label": "Japaneseclassicalbook",
+                "url": "http://ndl.go.jp/ndltype/JapaneseClassicalBook",
+                "value": "JapaneseClassicalBook"
+            },
+            {
+                "count": 83,
+                "h": 30,
+                "label": "Museummaterial",
+                "url": "http://ndl.go.jp/ndltype/MuseumMaterial",
+                "value": "MuseumMaterial"
+            },
+            {
+                "count": 2,
+                "h": 30,
+                "label": "Map",
+                "url": "http://ndl.go.jp/ndltype/Map",
+                "value": "Map"
+            },
+            {
+                "count": 1,
+                "h": 30,
+                "label": "Journal",
+                "url": "http://ndl.go.jp/ndltype/Journal",
+                "value": "Journal"
+            }
+        ]
+    },
+    {
+        "id": "collections",
+        "label": "Collection",
+        "markers": [
+            {
+                "count": 17544,
+                "h": 1760,
+                "label": "東京大学文書館デジタル・アーカイブ",
+                "url": "",
+                "value": "東京大学文書館デジタル・アーカイブ"
+            },
+            {
+                "count": 5286,
+                "h": 530,
+                "label": "平賀譲デジタルアーカイブ",
+                "url": "",
+                "value": "平賀譲デジタルアーカイブ"
+            },
+            {
+                "count": 1759,
+                "h": 180,
+                "label": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版",
+                "url": "",
+                "value": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版"
+            },
+            {
+                "count": 1273,
+                "h": 130,
+                "label": "皇明條法事類纂デジタルアーカイブ",
+                "url": "",
+                "value": "皇明條法事類纂デジタルアーカイブ"
+            },
+            {
+                "count": 847,
+                "h": 90,
+                "label": "社会情報研究資料センター所蔵 新聞原紙資料",
+                "url": "",
+                "value": "社会情報研究資料センター所蔵 新聞原紙資料"
+            },
+            {
+                "count": 662,
+                "h": 70,
+                "label": "第一次大戦プロパガンダポスターコレクション",
+                "url": "",
+                "value": "第一次大戦プロパガンダポスターコレクション"
+            },
+            {
+                "count": 578,
+                "h": 60,
+                "label": "石本コレクション",
+                "url": "",
+                "value": "石本コレクション"
+            },
+            {
+                "count": 518,
+                "h": 60,
+                "label": "宮武外骨蒐集資料",
+                "url": "",
+                "value": "宮武外骨蒐集資料"
+            },
+            {
+                "count": 172,
+                "h": 30,
+                "label": "富士川文庫",
+                "url": "",
+                "value": "富士川文庫"
+            },
+            {
+                "count": 165,
+                "h": 30,
+                "label": "小野秀雄研究資料",
+                "url": "",
+                "value": "小野秀雄研究資料"
+            },
+            {
+                "count": 158,
+                "h": 30,
+                "label": "小野秀雄コレクション",
+                "url": "",
+                "value": "小野秀雄コレクション"
+            },
+            {
+                "count": 142,
+                "h": 30,
+                "label": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ",
+                "url": "",
+                "value": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ"
+            },
+            {
+                "count": 121,
+                "h": 30,
+                "label": "U-parl漢籍・碑帖拓本資料",
+                "url": "",
+                "value": "U-PARL漢籍・碑帖拓本資料"
+            },
+            {
+                "count": 101,
+                "h": 30,
+                "label": "田中芳男・博物学コレクション",
+                "url": "",
+                "value": "田中芳男・博物学コレクション"
+            },
+            {
+                "count": 83,
+                "h": 30,
+                "label": "東京大学総合研究博物館所蔵蓄音機コレクション",
+                "url": "",
+                "value": "東京大学総合研究博物館所蔵蓄音機コレクション"
+            },
+            {
+                "count": 69,
+                "h": 30,
+                "label": "総合図書館所蔵古典籍",
+                "url": "",
+                "value": "総合図書館所蔵古典籍"
+            },
+            {
+                "count": 135,
+                "h": 30,
+                "label": "Other",
+                "url": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "colors",
+        "label": "Color",
+        "markers": [
+            {
+                "count": 112,
+                "h": 30,
+                "label": "Red",
+                "url": "",
+                "value": [
+                    "#f00",
+                    "#f0f"
+                ]
+            },
+            {
+                "count": 23,
+                "h": 30,
+                "label": "Green",
+                "url": "",
+                "value": [
+                    "#0f0"
+                ]
+            },
+            {
+                "count": 138,
+                "h": 30,
+                "label": "Blue",
+                "url": "",
+                "value": [
+                    "#00f"
+                ]
+            },
+            {
+                "count": 100,
+                "h": 30,
+                "label": "Orange",
+                "url": "",
+                "value": [
+                    "#ffa500"
+                ]
+            },
+            {
+                "count": 139,
+                "h": 30,
+                "label": "Yellow",
+                "url": "",
+                "value": [
+                    "#ff0"
+                ]
+            },
+            {
+                "count": 21310,
+                "h": 2140,
+                "label": "Brown",
+                "url": "",
+                "value": [
+                    "#e06f1f"
+                ]
+            },
+            {
+                "count": 498,
+                "h": 50,
+                "label": "Gray",
+                "url": "",
+                "value": [
+                    "#777777"
+                ]
+            },
+            {
+                "count": 4,
+                "h": 30,
+                "label": "White",
+                "url": "",
+                "value": [
+                    "#ffffff"
+                ]
+            },
+            {
+                "count": 0,
+                "h": 30,
+                "label": "Black",
+                "url": "",
+                "value": [
+                    "#000000"
+                ]
+            },
+            {
+                "count": 7289,
+                "h": 730,
+                "label": "Unknown",
+                "url": "",
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
         "id": "centuries",
         "label": "Year Created",
         "markers": [
@@ -373,290 +657,6 @@
                 "label": "Unknown",
                 "url": "",
                 "value": ""
-            }
-        ]
-    },
-    {
-        "id": "genres",
-        "label": "Genre",
-        "markers": [
-            {
-                "count": 20911,
-                "h": 2100,
-                "label": "Book",
-                "url": "http://ndl.go.jp/ndltype/Book",
-                "value": "Book"
-            },
-            {
-                "count": 6092,
-                "h": 610,
-                "label": "Stillimage",
-                "url": "http://ndl.go.jp/ndltype/StillImage",
-                "value": "StillImage"
-            },
-            {
-                "count": 1395,
-                "h": 140,
-                "label": "Chineseclassicalbook",
-                "url": "http://ndl.go.jp/ndltype/ChineseClassicalBook",
-                "value": "ChineseClassicalBook"
-            },
-            {
-                "count": 1005,
-                "h": 110,
-                "label": "Newspaper",
-                "url": "http://ndl.go.jp/ndltype/Newspaper",
-                "value": "Newspaper"
-            },
-            {
-                "count": 124,
-                "h": 30,
-                "label": "Japaneseclassicalbook",
-                "url": "http://ndl.go.jp/ndltype/JapaneseClassicalBook",
-                "value": "JapaneseClassicalBook"
-            },
-            {
-                "count": 83,
-                "h": 30,
-                "label": "Museummaterial",
-                "url": "http://ndl.go.jp/ndltype/MuseumMaterial",
-                "value": "MuseumMaterial"
-            },
-            {
-                "count": 2,
-                "h": 30,
-                "label": "Map",
-                "url": "http://ndl.go.jp/ndltype/Map",
-                "value": "Map"
-            },
-            {
-                "count": 1,
-                "h": 30,
-                "label": "Journal",
-                "url": "http://ndl.go.jp/ndltype/Journal",
-                "value": "Journal"
-            }
-        ]
-    },
-    {
-        "id": "collections",
-        "label": "Collection",
-        "markers": [
-            {
-                "count": 17544,
-                "h": 1760,
-                "label": "東京大学文書館デジタル・アーカイブ",
-                "url": "",
-                "value": "東京大学文書館デジタル・アーカイブ"
-            },
-            {
-                "count": 5286,
-                "h": 530,
-                "label": "平賀譲デジタルアーカイブ",
-                "url": "",
-                "value": "平賀譲デジタルアーカイブ"
-            },
-            {
-                "count": 1759,
-                "h": 180,
-                "label": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版",
-                "url": "",
-                "value": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版"
-            },
-            {
-                "count": 1273,
-                "h": 130,
-                "label": "皇明條法事類纂デジタルアーカイブ",
-                "url": "",
-                "value": "皇明條法事類纂デジタルアーカイブ"
-            },
-            {
-                "count": 847,
-                "h": 90,
-                "label": "社会情報研究資料センター所蔵 新聞原紙資料",
-                "url": "",
-                "value": "社会情報研究資料センター所蔵 新聞原紙資料"
-            },
-            {
-                "count": 662,
-                "h": 70,
-                "label": "第一次大戦プロパガンダポスターコレクション",
-                "url": "",
-                "value": "第一次大戦プロパガンダポスターコレクション"
-            },
-            {
-                "count": 578,
-                "h": 60,
-                "label": "石本コレクション",
-                "url": "",
-                "value": "石本コレクション"
-            },
-            {
-                "count": 518,
-                "h": 60,
-                "label": "宮武外骨蒐集資料",
-                "url": "",
-                "value": "宮武外骨蒐集資料"
-            },
-            {
-                "count": 172,
-                "h": 30,
-                "label": "富士川文庫",
-                "url": "",
-                "value": "富士川文庫"
-            },
-            {
-                "count": 165,
-                "h": 30,
-                "label": "小野秀雄研究資料",
-                "url": "",
-                "value": "小野秀雄研究資料"
-            },
-            {
-                "count": 158,
-                "h": 30,
-                "label": "小野秀雄コレクション",
-                "url": "",
-                "value": "小野秀雄コレクション"
-            },
-            {
-                "count": 142,
-                "h": 30,
-                "label": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ",
-                "url": "",
-                "value": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ"
-            },
-            {
-                "count": 121,
-                "h": 30,
-                "label": "U-parl漢籍・碑帖拓本資料",
-                "url": "",
-                "value": "U-PARL漢籍・碑帖拓本資料"
-            },
-            {
-                "count": 101,
-                "h": 30,
-                "label": "田中芳男・博物学コレクション",
-                "url": "",
-                "value": "田中芳男・博物学コレクション"
-            },
-            {
-                "count": 83,
-                "h": 30,
-                "label": "東京大学総合研究博物館所蔵蓄音機コレクション",
-                "url": "",
-                "value": "東京大学総合研究博物館所蔵蓄音機コレクション"
-            },
-            {
-                "count": 69,
-                "h": 30,
-                "label": "総合図書館所蔵古典籍",
-                "url": "",
-                "value": "総合図書館所蔵古典籍"
-            },
-            {
-                "count": 135,
-                "h": 30,
-                "label": "Other",
-                "url": "",
-                "value": ""
-            }
-        ]
-    },
-    {
-        "id": "colors",
-        "label": "Color",
-        "markers": [
-            {
-                "count": 112,
-                "h": 30,
-                "label": "Red",
-                "url": "",
-                "value": [
-                    "#f00",
-                    "#f0f"
-                ]
-            },
-            {
-                "count": 23,
-                "h": 30,
-                "label": "Green",
-                "url": "",
-                "value": [
-                    "#0f0"
-                ]
-            },
-            {
-                "count": 138,
-                "h": 30,
-                "label": "Blue",
-                "url": "",
-                "value": [
-                    "#00f"
-                ]
-            },
-            {
-                "count": 100,
-                "h": 30,
-                "label": "Orange",
-                "url": "",
-                "value": [
-                    "#ffa500"
-                ]
-            },
-            {
-                "count": 139,
-                "h": 30,
-                "label": "Yellow",
-                "url": "",
-                "value": [
-                    "#ff0"
-                ]
-            },
-            {
-                "count": 21310,
-                "h": 2140,
-                "label": "Brown",
-                "url": "",
-                "value": [
-                    "#e06f1f"
-                ]
-            },
-            {
-                "count": 498,
-                "h": 50,
-                "label": "Gray",
-                "url": "",
-                "value": [
-                    "#777777"
-                ]
-            },
-            {
-                "count": 4,
-                "h": 30,
-                "label": "White",
-                "url": "",
-                "value": [
-                    "#ffffff"
-                ]
-            },
-            {
-                "count": 0,
-                "h": 30,
-                "label": "Black",
-                "url": "",
-                "value": [
-                    "#000000"
-                ]
-            },
-            {
-                "count": 7289,
-                "h": 730,
-                "label": "Unknown",
-                "url": "",
-                "value": [
-                    ""
-                ]
             }
         ]
     }
