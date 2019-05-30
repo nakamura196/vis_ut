@@ -14,7 +14,7 @@ import sys
 from SPARQLWrapper import SPARQLWrapper
 import urllib.request
 
-OUTPUT_FILE = "../data/src/pd_items_all.json"
+OUTPUT_FILE = "../data/src/pd_items.json"
 
 page = 0
 d = 10000
@@ -74,7 +74,7 @@ while flg:
 
                 obj2 = {}
                 for key in obj:
-                    obj2[key] = obj[key]["value"]
+                    obj2[key] = obj[key]["value"].replace("?_format=json", "")
 
                 arr.append(obj2)
                 dd.append(s)

@@ -1,13 +1,13 @@
 [
     {
-        "count": 20908,
+        "count": 20911,
         "index": 0,
         "label": "Book",
         "url": "http://ndl.go.jp/ndltype/Book",
         "value": "Book"
     },
     {
-        "count": 6110,
+        "count": 6092,
         "index": 3,
         "label": "Stillimage",
         "url": "http://ndl.go.jp/ndltype/StillImage",
@@ -28,15 +28,29 @@
         "value": "Newspaper"
     },
     {
-        "count": 104,
+        "count": 124,
         "index": 1,
         "label": "Japaneseclassicalbook",
         "url": "http://ndl.go.jp/ndltype/JapaneseClassicalBook",
         "value": "JapaneseClassicalBook"
     },
     {
-        "count": 1,
+        "count": 83,
         "index": 5,
+        "label": "Museummaterial",
+        "url": "http://ndl.go.jp/ndltype/MuseumMaterial",
+        "value": "MuseumMaterial"
+    },
+    {
+        "count": 2,
+        "index": 6,
+        "label": "Map",
+        "url": "http://ndl.go.jp/ndltype/Map",
+        "value": "Map"
+    },
+    {
+        "count": 1,
+        "index": 7,
         "label": "Journal",
         "url": "http://ndl.go.jp/ndltype/Journal",
         "value": "Journal"
