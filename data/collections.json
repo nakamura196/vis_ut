@@ -7,7 +7,7 @@
         "value": "東京大学文書館デジタル・アーカイブ"
     },
     {
-        "count": 5304,
+        "count": 5286,
         "index": 14,
         "label": "平賀譲デジタルアーカイブ",
         "url": "",
@@ -36,7 +36,7 @@
     },
     {
         "count": 662,
-        "index": 18,
+        "index": 25,
         "label": "第一次大戦プロパガンダポスターコレクション",
         "url": "",
         "value": "第一次大戦プロパガンダポスターコレクション"
@@ -57,28 +57,28 @@
     },
     {
         "count": 172,
-        "index": 20,
+        "index": 19,
         "label": "富士川文庫",
         "url": "",
         "value": "富士川文庫"
     },
     {
         "count": 165,
-        "index": 22,
+        "index": 21,
         "label": "小野秀雄研究資料",
         "url": "",
         "value": "小野秀雄研究資料"
     },
     {
         "count": 158,
-        "index": 21,
+        "index": 20,
         "label": "小野秀雄コレクション",
         "url": "",
         "value": "小野秀雄コレクション"
     },
     {
         "count": 142,
-        "index": 19,
+        "index": 18,
         "label": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ",
         "url": "",
         "value": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ"
@@ -98,7 +98,14 @@
         "value": "田中芳男・博物学コレクション"
     },
     {
-        "count": 67,
+        "count": 83,
+        "index": 27,
+        "label": "東京大学総合研究博物館所蔵蓄音機コレクション",
+        "url": "",
+        "value": "東京大学総合研究博物館所蔵蓄音機コレクション"
+    },
+    {
+        "count": 69,
         "index": 1,
         "label": "総合図書館所蔵古典籍",
         "url": "",
@@ -112,18 +119,18 @@
         "value": "Catalogue of the Kawaguchi-Takakusu Collection of Sanskrit manuscripts. Note-book（松濤ノート）"
     },
     {
-        "count": 20,
-        "index": 28,
-        "label": "坪井正五郎関係資料",
-        "url": "",
-        "value": "坪井正五郎関係資料"
-    },
-    {
-        "count": 15,
-        "index": 24,
+        "count": 33,
+        "index": 22,
         "label": "総合図書館所蔵江戸期俳諧書",
         "url": "",
         "value": "総合図書館所蔵江戸期俳諧書"
+    },
+    {
+        "count": 20,
+        "index": 32,
+        "label": "坪井正五郎関係資料",
+        "url": "",
+        "value": "坪井正五郎関係資料"
     },
     {
         "count": 13,
@@ -135,9 +142,9 @@
     {
         "count": 12,
         "index": 23,
-        "label": "Sat大正蔵図像db",
+        "label": "『大正新修大蔵経』図像部画像データベース",
         "url": "",
-        "value": "SAT大正蔵図像DB"
+        "value": "『大正新修大蔵経』図像部画像データベース"
     },
     {
         "count": 5,
@@ -145,6 +152,13 @@
         "label": "東京大学法学部法制史資料室所蔵コレクション",
         "url": "",
         "value": "東京大学法学部法制史資料室所蔵コレクション"
+    },
+    {
+        "count": 3,
+        "index": 26,
+        "label": "農学生命科学図書館コレクション",
+        "url": "",
+        "value": "農学生命科学図書館コレクション"
     },
     {
         "count": 2,
@@ -155,7 +169,7 @@
     },
     {
         "count": 2,
-        "index": 25,
+        "index": 24,
         "label": "総合図書館所蔵キリシタン写本",
         "url": "",
         "value": "総合図書館所蔵キリシタン写本"
@@ -190,28 +204,42 @@
     },
     {
         "count": 1,
-        "index": 26,
+        "index": 28,
+        "label": "電子版霞亭文庫",
+        "url": "",
+        "value": "電子版霞亭文庫"
+    },
+    {
+        "count": 1,
+        "index": 29,
+        "label": "Fragment of an address to the jews",
+        "url": "",
+        "value": "Fragment of an Address to the Jews"
+    },
+    {
+        "count": 1,
+        "index": 30,
         "label": "百鬼夜行図",
         "url": "",
         "value": "百鬼夜行図"
     },
     {
         "count": 1,
-        "index": 27,
+        "index": 31,
         "label": "松乃栄",
         "url": "",
         "value": "松乃栄"
     },
     {
         "count": 1,
-        "index": 29,
+        "index": 33,
         "label": "明・弘治十八年八月二十日勅命",
         "url": "",
         "value": "明・弘治十八年八月二十日勅命"
     },
     {
         "count": 1,
-        "index": 30,
+        "index": 34,
         "label": "紀州熊野浦諸鯨之圖",
         "url": "",
         "value": "紀州熊野浦諸鯨之圖"
