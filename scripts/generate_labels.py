@@ -11,7 +11,8 @@ from pprint import pprint
 import sys
 
 if len(sys.argv) < 7:
-    print("Usage: %s <inputdir of data> <outputfile labels json> <images per row> <image cell height> <group item threshold> <group threshold> <min group rows>" % sys.argv[0])
+    print("Usage: %s <inputdir of data> <outputfile labels json> <images per row> <image cell height> <group item threshold> <group threshold> <min group rows>" %
+          sys.argv[0])
     sys.exit(1)
 INPUT_DIR = sys.argv[1]
 OUTPUT_FILE = sys.argv[2]
@@ -22,13 +23,14 @@ GROUP_THRESHOLD = int(sys.argv[6])
 MIN_GROUP_ROWS = int(sys.argv[7])
 
 labels = [
-    {'id': 'centuries', 'label': 'Year Created', 'markers': []},
     {'id': 'genres', 'label': 'Genre', 'markers': []},
     {'id': 'collections', 'label': 'Collection', 'markers': []},
-    {'id': 'colors', 'label': 'Color', 'markers': []}
+    {'id': 'colors', 'label': 'Color', 'markers': []},
+    {'id': 'centuries', 'label': 'Year Created', 'markers': []}
 ]
 
 minGroupHeight = ITEM_H * MIN_GROUP_ROWS
+
 
 def getHeight(item_count):
     global ITEMS_PER_ROW
@@ -39,6 +41,7 @@ def getHeight(item_count):
     height = max(rows * ITEM_H, minGroupHeight)
 
     return height
+
 
 for i, l in enumerate(labels):
     fileName = INPUT_DIR + l['id'] + '.json'

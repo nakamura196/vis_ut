@@ -1,9 +1,10 @@
 [
     {
-        "id": "centuries",
-        "label": "Year Created",
+        "id": "genres",
+        "label": "Genre",
         "markers": [
             {
+<<<<<<< HEAD
                 "count": 65,
                 "h": 60,
                 "label": "1854",
@@ -644,19 +645,666 @@
                 "count": 0,
                 "h": 60,
                 "label": "Black",
+=======
+                "count": 20911,
+                "h": 2100,
+                "label": "Book",
+                "url": "http://ndl.go.jp/ndltype/Book",
+                "value": "Book"
+            },
+            {
+                "count": 6092,
+                "h": 610,
+                "label": "Stillimage",
+                "url": "http://ndl.go.jp/ndltype/StillImage",
+                "value": "StillImage"
+            },
+            {
+                "count": 1395,
+                "h": 140,
+                "label": "Chineseclassicalbook",
+                "url": "http://ndl.go.jp/ndltype/ChineseClassicalBook",
+                "value": "ChineseClassicalBook"
+            },
+            {
+                "count": 1005,
+                "h": 110,
+                "label": "Newspaper",
+                "url": "http://ndl.go.jp/ndltype/Newspaper",
+                "value": "Newspaper"
+            },
+            {
+                "count": 124,
+                "h": 30,
+                "label": "Japaneseclassicalbook",
+                "url": "http://ndl.go.jp/ndltype/JapaneseClassicalBook",
+                "value": "JapaneseClassicalBook"
+            },
+            {
+                "count": 83,
+                "h": 30,
+                "label": "Museummaterial",
+                "url": "http://ndl.go.jp/ndltype/MuseumMaterial",
+                "value": "MuseumMaterial"
+            },
+            {
+                "count": 2,
+                "h": 30,
+                "label": "Map",
+                "url": "http://ndl.go.jp/ndltype/Map",
+                "value": "Map"
+            },
+            {
+                "count": 1,
+                "h": 30,
+                "label": "Journal",
+                "url": "http://ndl.go.jp/ndltype/Journal",
+                "value": "Journal"
+            }
+        ]
+    },
+    {
+        "id": "collections",
+        "label": "Collection",
+        "markers": [
+            {
+                "count": 17544,
+                "h": 1760,
+                "label": "東京大学文書館デジタル・アーカイブ",
+                "url": "",
+                "value": "東京大学文書館デジタル・アーカイブ"
+            },
+            {
+                "count": 5286,
+                "h": 530,
+                "label": "平賀譲デジタルアーカイブ",
+                "url": "",
+                "value": "平賀譲デジタルアーカイブ"
+            },
+            {
+                "count": 1759,
+                "h": 180,
+                "label": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版",
+                "url": "",
+                "value": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版"
+            },
+            {
+                "count": 1273,
+                "h": 130,
+                "label": "皇明條法事類纂デジタルアーカイブ",
+                "url": "",
+                "value": "皇明條法事類纂デジタルアーカイブ"
+            },
+            {
+                "count": 847,
+                "h": 90,
+                "label": "社会情報研究資料センター所蔵 新聞原紙資料",
+                "url": "",
+                "value": "社会情報研究資料センター所蔵 新聞原紙資料"
+            },
+            {
+                "count": 662,
+                "h": 70,
+                "label": "第一次大戦プロパガンダポスターコレクション",
+                "url": "",
+                "value": "第一次大戦プロパガンダポスターコレクション"
+            },
+            {
+                "count": 578,
+                "h": 60,
+                "label": "石本コレクション",
+                "url": "",
+                "value": "石本コレクション"
+            },
+            {
+                "count": 518,
+                "h": 60,
+                "label": "宮武外骨蒐集資料",
+                "url": "",
+                "value": "宮武外骨蒐集資料"
+            },
+            {
+                "count": 172,
+                "h": 30,
+                "label": "富士川文庫",
+                "url": "",
+                "value": "富士川文庫"
+            },
+            {
+                "count": 165,
+                "h": 30,
+                "label": "小野秀雄研究資料",
+                "url": "",
+                "value": "小野秀雄研究資料"
+            },
+            {
+                "count": 158,
+                "h": 30,
+                "label": "小野秀雄コレクション",
+                "url": "",
+                "value": "小野秀雄コレクション"
+            },
+            {
+                "count": 142,
+                "h": 30,
+                "label": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ",
+                "url": "",
+                "value": "史跡モヨロ貝塚ガラス乾板写真デジタルアーカイブ"
+            },
+            {
+                "count": 121,
+                "h": 30,
+                "label": "U-parl漢籍・碑帖拓本資料",
+                "url": "",
+                "value": "U-PARL漢籍・碑帖拓本資料"
+            },
+            {
+                "count": 101,
+                "h": 30,
+                "label": "田中芳男・博物学コレクション",
+                "url": "",
+                "value": "田中芳男・博物学コレクション"
+            },
+            {
+                "count": 83,
+                "h": 30,
+                "label": "東京大学総合研究博物館所蔵蓄音機コレクション",
+                "url": "",
+                "value": "東京大学総合研究博物館所蔵蓄音機コレクション"
+            },
+            {
+                "count": 69,
+                "h": 30,
+                "label": "総合図書館所蔵古典籍",
+                "url": "",
+                "value": "総合図書館所蔵古典籍"
+            },
+            {
+                "count": 135,
+                "h": 30,
+                "label": "Other",
+                "url": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "colors",
+        "label": "Color",
+        "markers": [
+            {
+                "count": 112,
+                "h": 30,
+                "label": "Red",
+                "url": "",
+                "value": [
+                    "#f00",
+                    "#f0f"
+                ]
+            },
+            {
+                "count": 23,
+                "h": 30,
+                "label": "Green",
+                "url": "",
+                "value": [
+                    "#0f0"
+                ]
+            },
+            {
+                "count": 138,
+                "h": 30,
+                "label": "Blue",
+                "url": "",
+                "value": [
+                    "#00f"
+                ]
+            },
+            {
+                "count": 100,
+                "h": 30,
+                "label": "Orange",
+                "url": "",
+                "value": [
+                    "#ffa500"
+                ]
+            },
+            {
+                "count": 139,
+                "h": 30,
+                "label": "Yellow",
+                "url": "",
+                "value": [
+                    "#ff0"
+                ]
+            },
+            {
+                "count": 21310,
+                "h": 2140,
+                "label": "Brown",
+                "url": "",
+                "value": [
+                    "#e06f1f"
+                ]
+            },
+            {
+                "count": 498,
+                "h": 50,
+                "label": "Gray",
+                "url": "",
+                "value": [
+                    "#777777"
+                ]
+            },
+            {
+                "count": 4,
+                "h": 30,
+                "label": "White",
+                "url": "",
+                "value": [
+                    "#ffffff"
+                ]
+            },
+            {
+                "count": 0,
+                "h": 30,
+                "label": "Black",
                 "url": "",
                 "value": [
                     "#000000"
                 ]
             },
             {
-                "count": 7281,
-                "h": 2920,
+                "count": 7289,
+                "h": 730,
                 "label": "Unknown",
                 "url": "",
                 "value": [
                     ""
                 ]
+            }
+        ]
+    },
+    {
+        "id": "centuries",
+        "label": "Year Created",
+        "markers": [
+            {
+                "count": 65,
+                "h": 30,
+                "label": "1854",
+                "url": "1854",
+                "value": "1854"
+            },
+            {
+                "count": 247,
+                "h": 30,
+                "label": "1855",
+                "url": "1855",
+                "value": "1855"
+            },
+            {
+                "count": 733,
+                "h": 80,
+                "label": "1871",
+                "url": "1871",
+                "value": "1871"
+            },
+            {
+                "count": 726,
+                "h": 80,
+                "label": "1872",
+                "url": "1872",
+                "value": "1872"
+            },
+            {
+                "count": 885,
+                "h": 90,
+                "label": "1873",
+                "url": "1873",
+                "value": "1873"
+            },
+            {
+                "count": 941,
+                "h": 100,
+                "label": "1874",
+                "url": "1874",
+                "value": "1874"
+            },
+            {
+                "count": 609,
+                "h": 70,
+                "label": "1875",
+                "url": "1875",
+                "value": "1875"
+            },
+            {
+                "count": 575,
+                "h": 60,
+                "label": "1876",
+                "url": "1876",
+                "value": "1876"
+            },
+            {
+                "count": 898,
+                "h": 90,
+                "label": "1877",
+                "url": "1877",
+                "value": "1877"
+            },
+            {
+                "count": 586,
+                "h": 60,
+                "label": "1878",
+                "url": "1878",
+                "value": "1878"
+            },
+            {
+                "count": 377,
+                "h": 40,
+                "label": "1879",
+                "url": "1879",
+                "value": "1879"
+            },
+            {
+                "count": 896,
+                "h": 90,
+                "label": "1880",
+                "url": "1880",
+                "value": "1880"
+            },
+            {
+                "count": 1864,
+                "h": 190,
+                "label": "1881",
+                "url": "1881",
+                "value": "1881"
+            },
+            {
+                "count": 2166,
+                "h": 220,
+                "label": "1882",
+                "url": "1882",
+                "value": "1882"
+            },
+            {
+                "count": 931,
+                "h": 100,
+                "label": "1883",
+                "url": "1883",
+                "value": "1883"
+            },
+            {
+                "count": 323,
+                "h": 40,
+                "label": "1884",
+                "url": "1884",
+                "value": "1884"
+            },
+            {
+                "count": 196,
+                "h": 30,
+                "label": "1885",
+                "url": "1885",
+                "value": "1885"
+            },
+            {
+                "count": 170,
+                "h": 30,
+                "label": "1886",
+                "url": "1886",
+                "value": "1886"
+            },
+            {
+                "count": 63,
+                "h": 30,
+                "label": "1887",
+                "url": "1887",
+                "value": "1887"
+            },
+            {
+                "count": 165,
+                "h": 30,
+                "label": "1888",
+                "url": "1888",
+                "value": "1888"
+            },
+            {
+                "count": 277,
+                "h": 30,
+                "label": "1889",
+                "url": "1889",
+                "value": "1889"
+            },
+            {
+                "count": 116,
+                "h": 30,
+                "label": "1890",
+                "url": "1890",
+                "value": "1890"
+            },
+            {
+                "count": 355,
+                "h": 40,
+                "label": "1891",
+                "url": "1891",
+                "value": "1891"
+            },
+            {
+                "count": 68,
+                "h": 30,
+                "label": "1892",
+                "url": "1892",
+                "value": "1892"
+            },
+            {
+                "count": 69,
+                "h": 30,
+                "label": "1893",
+                "url": "1893",
+                "value": "1893"
+            },
+            {
+                "count": 82,
+                "h": 30,
+                "label": "1895",
+                "url": "1895",
+                "value": "1895"
+            },
+            {
+                "count": 72,
+                "h": 30,
+                "label": "1899",
+                "url": "1899",
+                "value": "1899"
+            },
+            {
+                "count": 52,
+                "h": 30,
+                "label": "1902",
+                "url": "1902",
+                "value": "1902"
+            },
+            {
+                "count": 55,
+                "h": 30,
+                "label": "1903",
+                "url": "1903",
+                "value": "1903"
+            },
+            {
+                "count": 121,
+                "h": 30,
+                "label": "1904",
+                "url": "1904",
+                "value": "1904"
+            },
+            {
+                "count": 90,
+                "h": 30,
+                "label": "1905",
+                "url": "1905",
+                "value": "1905"
+            },
+            {
+                "count": 96,
+                "h": 30,
+                "label": "1907",
+                "url": "1907",
+                "value": "1907"
+            },
+            {
+                "count": 83,
+                "h": 30,
+                "label": "1908",
+                "url": "1908",
+                "value": "1908"
+            },
+            {
+                "count": 91,
+                "h": 30,
+                "label": "1909",
+                "url": "1909",
+                "value": "1909"
+            },
+            {
+                "count": 79,
+                "h": 30,
+                "label": "1910",
+                "url": "1910",
+                "value": "1910"
+            },
+            {
+                "count": 97,
+                "h": 30,
+                "label": "1911",
+                "url": "1911",
+                "value": "1911"
+            },
+            {
+                "count": 92,
+                "h": 30,
+                "label": "1912",
+                "url": "1912",
+                "value": "1912"
+            },
+            {
+                "count": 100,
+                "h": 30,
+                "label": "1917",
+                "url": "1917",
+                "value": "1917"
+            },
+            {
+                "count": 190,
+                "h": 30,
+                "label": "1918",
+                "url": "1918",
+                "value": "1918"
+            },
+            {
+                "count": 146,
+                "h": 30,
+                "label": "1919",
+                "url": "1919",
+                "value": "1919"
+            },
+            {
+                "count": 113,
+                "h": 30,
+                "label": "1920",
+                "url": "1920",
+                "value": "1920"
+            },
+            {
+                "count": 100,
+                "h": 30,
+                "label": "1921",
+                "url": "1921",
+                "value": "1921"
+            },
+            {
+                "count": 58,
+                "h": 30,
+                "label": "1922",
+                "url": "1922",
+                "value": "1922"
+            },
+            {
+                "count": 88,
+                "h": 30,
+                "label": "1923",
+                "url": "1923",
+                "value": "1923"
+            },
+            {
+                "count": 162,
+                "h": 30,
+                "label": "1924",
+                "url": "1924",
+                "value": "1924"
+            },
+            {
+                "count": 50,
+                "h": 30,
+                "label": "1925",
+                "url": "1925",
+                "value": "1925"
+            },
+            {
+                "count": 56,
+                "h": 30,
+                "label": "1928",
+                "url": "1928",
+                "value": "1928"
+            },
+            {
+                "count": 140,
+                "h": 30,
+                "label": "1929",
+                "url": "1929",
+                "value": "1929"
+            },
+            {
+                "count": 317,
+                "h": 40,
+                "label": "1930",
+                "url": "1930",
+                "value": "1930"
+            },
+            {
+                "count": 178,
+                "h": 30,
+                "label": "1931",
+                "url": "1931",
+                "value": "1931"
+            },
+            {
+                "count": 72,
+                "h": 30,
+                "label": "1947",
+                "url": "1947",
+                "value": "1947"
+            },
+            {
+                "count": 1023,
+                "h": 110,
+                "label": "Other",
+>>>>>>> fa1a8257d837dba27bd5a30a7595cf0c4060442d
+                "url": "",
+                "value": ""
+            },
+            {
+<<<<<<< HEAD
+                "count": 7281,
+                "h": 2920,
+=======
+                "count": 11509,
+                "h": 1160,
+>>>>>>> fa1a8257d837dba27bd5a30a7595cf0c4060442d
+                "label": "Unknown",
+                "url": "",
+                "value": ""
             }
         ]
     }
