@@ -4,18 +4,25 @@
         "label": "Genre",
         "markers": [
             {
-                "count": 20911,
-                "h": 2100,
+                "count": 21670,
+                "h": 2170,
+                "label": "Stillimage",
+                "url": "http://ndl.go.jp/ndltype/StillImage",
+                "value": "StillImage"
+            },
+            {
+                "count": 19646,
+                "h": 1970,
                 "label": "Book",
                 "url": "http://ndl.go.jp/ndltype/Book",
                 "value": "Book"
             },
             {
-                "count": 6092,
-                "h": 610,
-                "label": "Stillimage",
-                "url": "http://ndl.go.jp/ndltype/StillImage",
-                "value": "StillImage"
+                "count": 2480,
+                "h": 250,
+                "label": "Museummaterial",
+                "url": "http://ndl.go.jp/ndltype/MuseumMaterial",
+                "value": "MuseumMaterial"
             },
             {
                 "count": 1395,
@@ -25,25 +32,18 @@
                 "value": "ChineseClassicalBook"
             },
             {
-                "count": 1005,
-                "h": 110,
+                "count": 1115,
+                "h": 120,
                 "label": "Newspaper",
                 "url": "http://ndl.go.jp/ndltype/Newspaper",
                 "value": "Newspaper"
             },
             {
-                "count": 124,
+                "count": 178,
                 "h": 30,
                 "label": "Japaneseclassicalbook",
                 "url": "http://ndl.go.jp/ndltype/JapaneseClassicalBook",
                 "value": "JapaneseClassicalBook"
-            },
-            {
-                "count": 83,
-                "h": 30,
-                "label": "Museummaterial",
-                "url": "http://ndl.go.jp/ndltype/MuseumMaterial",
-                "value": "MuseumMaterial"
             },
             {
                 "count": 2,
@@ -66,14 +66,21 @@
         "label": "Collection",
         "markers": [
             {
-                "count": 17544,
-                "h": 1760,
+                "count": 15809,
+                "h": 1590,
                 "label": "東京大学文書館デジタル・アーカイブ",
                 "url": "",
                 "value": "東京大学文書館デジタル・アーカイブ"
             },
             {
-                "count": 5286,
+                "count": 15517,
+                "h": 1560,
+                "label": "古貨幣・古札統合データベース",
+                "url": "",
+                "value": "古貨幣・古札統合データベース"
+            },
+            {
+                "count": 5202,
                 "h": 530,
                 "label": "平賀譲デジタルアーカイブ",
                 "url": "",
@@ -85,6 +92,13 @@
                 "label": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版",
                 "url": "",
                 "value": "東京大学総合図書館万暦版大蔵経（嘉興蔵）デジタル版"
+            },
+            {
+                "count": 1677,
+                "h": 170,
+                "label": "東京大学総合研究博物館所蔵阿部正直コレクション",
+                "url": "",
+                "value": "東京大学総合研究博物館所蔵阿部正直コレクション"
             },
             {
                 "count": 1273,
@@ -103,9 +117,16 @@
             {
                 "count": 662,
                 "h": 70,
-                "label": "第一次大戦プロパガンダポスターコレクション",
+                "label": "第一次世界大戦期プロパガンダポスターコレクション",
                 "url": "",
-                "value": "第一次大戦プロパガンダポスターコレクション"
+                "value": "第一次世界大戦期プロパガンダポスターコレクション"
+            },
+            {
+                "count": 602,
+                "h": 70,
+                "label": "東京大学総合研究博物館所蔵三宅一族旧蔵コレクション",
+                "url": "",
+                "value": "東京大学総合研究博物館所蔵三宅一族旧蔵コレクション"
             },
             {
                 "count": 578,
@@ -122,6 +143,20 @@
                 "value": "宮武外骨蒐集資料"
             },
             {
+                "count": 269,
+                "h": 30,
+                "label": "鴎外文庫書入本画像データベース",
+                "url": "",
+                "value": "鴎外文庫書入本画像データベース"
+            },
+            {
+                "count": 268,
+                "h": 30,
+                "label": "小野秀雄コレクション",
+                "url": "",
+                "value": "小野秀雄コレクション"
+            },
+            {
                 "count": 172,
                 "h": 30,
                 "label": "富士川文庫",
@@ -134,13 +169,6 @@
                 "label": "小野秀雄研究資料",
                 "url": "",
                 "value": "小野秀雄研究資料"
-            },
-            {
-                "count": 158,
-                "h": 30,
-                "label": "小野秀雄コレクション",
-                "url": "",
-                "value": "小野秀雄コレクション"
             },
             {
                 "count": 142,
@@ -157,11 +185,39 @@
                 "value": "U-PARL漢籍・碑帖拓本資料"
             },
             {
+                "count": 118,
+                "h": 30,
+                "label": "非南極隕石標本",
+                "url": "",
+                "value": "非南極隕石標本"
+            },
+            {
+                "count": 117,
+                "h": 30,
+                "label": "東京大学演習林の鳥たち",
+                "url": "",
+                "value": "東京大学演習林の鳥たち"
+            },
+            {
+                "count": 109,
+                "h": 30,
+                "label": "工学史料キュレーションデータベース",
+                "url": "",
+                "value": "工学史料キュレーションデータベース"
+            },
+            {
                 "count": 101,
                 "h": 30,
                 "label": "田中芳男・博物学コレクション",
                 "url": "",
                 "value": "田中芳男・博物学コレクション"
+            },
+            {
+                "count": 90,
+                "h": 30,
+                "label": "古典籍コレクション [医学図書館]",
+                "url": "",
+                "value": "古典籍コレクション [医学図書館]"
             },
             {
                 "count": 83,
@@ -178,7 +234,14 @@
                 "value": "総合図書館所蔵古典籍"
             },
             {
-                "count": 135,
+                "count": 54,
+                "h": 30,
+                "label": "総合図書館所蔵『源氏物語』",
+                "url": "",
+                "value": "総合図書館所蔵『源氏物語』"
+            },
+            {
+                "count": 165,
                 "h": 30,
                 "label": "Other",
                 "url": "",
@@ -191,7 +254,7 @@
         "label": "Color",
         "markers": [
             {
-                "count": 118,
+                "count": 114,
                 "h": 30,
                 "label": "Red",
                 "url": "",
@@ -201,7 +264,7 @@
                 ]
             },
             {
-                "count": 24,
+                "count": 26,
                 "h": 30,
                 "label": "Green",
                 "url": "",
@@ -210,7 +273,7 @@
                 ]
             },
             {
-                "count": 144,
+                "count": 142,
                 "h": 30,
                 "label": "Blue",
                 "url": "",
@@ -219,7 +282,7 @@
                 ]
             },
             {
-                "count": 103,
+                "count": 100,
                 "h": 30,
                 "label": "Orange",
                 "url": "",
@@ -228,7 +291,7 @@
                 ]
             },
             {
-                "count": 132,
+                "count": 131,
                 "h": 30,
                 "label": "Yellow",
                 "url": "",
@@ -237,7 +300,7 @@
                 ]
             },
             {
-                "count": 21312,
+                "count": 21311,
                 "h": 2140,
                 "label": "Brown",
                 "url": "",
@@ -246,8 +309,8 @@
                 ]
             },
             {
-                "count": 496,
-                "h": 50,
+                "count": 506,
+                "h": 60,
                 "label": "Gray",
                 "url": "",
                 "value": [
@@ -255,7 +318,7 @@
                 ]
             },
             {
-                "count": 4,
+                "count": 3,
                 "h": 30,
                 "label": "White",
                 "url": "",
@@ -273,8 +336,8 @@
                 ]
             },
             {
-                "count": 7280,
-                "h": 730,
+                "count": 24154,
+                "h": 2420,
                 "label": "Unknown",
                 "url": "",
                 "value": [
@@ -288,14 +351,14 @@
         "label": "Year Created",
         "markers": [
             {
-                "count": 65,
+                "count": 67,
                 "h": 30,
                 "label": "1854",
                 "url": "1854",
                 "value": "1854"
             },
             {
-                "count": 247,
+                "count": 252,
                 "h": 30,
                 "label": "1855",
                 "url": "1855",
@@ -309,15 +372,15 @@
                 "value": "1871"
             },
             {
-                "count": 726,
+                "count": 727,
                 "h": 80,
                 "label": "1872",
                 "url": "1872",
                 "value": "1872"
             },
             {
-                "count": 885,
-                "h": 90,
+                "count": 617,
+                "h": 70,
                 "label": "1873",
                 "url": "1873",
                 "value": "1873"
@@ -358,29 +421,29 @@
                 "value": "1878"
             },
             {
-                "count": 377,
+                "count": 378,
                 "h": 40,
                 "label": "1879",
                 "url": "1879",
                 "value": "1879"
             },
             {
-                "count": 896,
+                "count": 897,
                 "h": 90,
                 "label": "1880",
                 "url": "1880",
                 "value": "1880"
             },
             {
-                "count": 1864,
+                "count": 1836,
                 "h": 190,
                 "label": "1881",
                 "url": "1881",
                 "value": "1881"
             },
             {
-                "count": 2166,
-                "h": 220,
+                "count": 1814,
+                "h": 190,
                 "label": "1882",
                 "url": "1882",
                 "value": "1882"
@@ -442,14 +505,14 @@
                 "value": "1890"
             },
             {
-                "count": 355,
+                "count": 357,
                 "h": 40,
                 "label": "1891",
                 "url": "1891",
                 "value": "1891"
             },
             {
-                "count": 68,
+                "count": 71,
                 "h": 30,
                 "label": "1892",
                 "url": "1892",
@@ -470,14 +533,7 @@
                 "value": "1895"
             },
             {
-                "count": 72,
-                "h": 30,
-                "label": "1899",
-                "url": "1899",
-                "value": "1899"
-            },
-            {
-                "count": 52,
+                "count": 53,
                 "h": 30,
                 "label": "1902",
                 "url": "1902",
@@ -498,63 +554,28 @@
                 "value": "1904"
             },
             {
-                "count": 90,
+                "count": 89,
                 "h": 30,
                 "label": "1905",
                 "url": "1905",
                 "value": "1905"
             },
             {
-                "count": 96,
+                "count": 50,
                 "h": 30,
-                "label": "1907",
-                "url": "1907",
-                "value": "1907"
-            },
-            {
-                "count": 83,
-                "h": 30,
-                "label": "1908",
-                "url": "1908",
-                "value": "1908"
-            },
-            {
-                "count": 91,
-                "h": 30,
-                "label": "1909",
-                "url": "1909",
-                "value": "1909"
-            },
-            {
-                "count": 79,
-                "h": 30,
-                "label": "1910",
-                "url": "1910",
-                "value": "1910"
+                "label": "1916",
+                "url": "1916",
+                "value": "1916"
             },
             {
                 "count": 97,
-                "h": 30,
-                "label": "1911",
-                "url": "1911",
-                "value": "1911"
-            },
-            {
-                "count": 92,
-                "h": 30,
-                "label": "1912",
-                "url": "1912",
-                "value": "1912"
-            },
-            {
-                "count": 100,
                 "h": 30,
                 "label": "1917",
                 "url": "1917",
                 "value": "1917"
             },
             {
-                "count": 190,
+                "count": 191,
                 "h": 30,
                 "label": "1918",
                 "url": "1918",
@@ -568,21 +589,21 @@
                 "value": "1919"
             },
             {
-                "count": 113,
+                "count": 116,
                 "h": 30,
                 "label": "1920",
                 "url": "1920",
                 "value": "1920"
             },
             {
-                "count": 100,
+                "count": 102,
                 "h": 30,
                 "label": "1921",
                 "url": "1921",
                 "value": "1921"
             },
             {
-                "count": 58,
+                "count": 57,
                 "h": 30,
                 "label": "1922",
                 "url": "1922",
@@ -603,21 +624,14 @@
                 "value": "1924"
             },
             {
-                "count": 50,
-                "h": 30,
-                "label": "1925",
-                "url": "1925",
-                "value": "1925"
-            },
-            {
-                "count": 56,
+                "count": 57,
                 "h": 30,
                 "label": "1928",
                 "url": "1928",
                 "value": "1928"
             },
             {
-                "count": 140,
+                "count": 139,
                 "h": 30,
                 "label": "1929",
                 "url": "1929",
@@ -645,15 +659,15 @@
                 "value": "1947"
             },
             {
-                "count": 1023,
-                "h": 110,
+                "count": 1181,
+                "h": 120,
                 "label": "Other",
                 "url": "",
                 "value": ""
             },
             {
-                "count": 11509,
-                "h": 1160,
+                "count": 29466,
+                "h": 2950,
                 "label": "Unknown",
                 "url": "",
                 "value": ""

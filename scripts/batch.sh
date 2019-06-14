@@ -1,3 +1,4 @@
+# python make_dump.py
 python get_captures.py ../data/src/pd_items.json ../data/captures.json;
 python get_collections.py ../data/src/pd_items.json ../data/collections.json ../data/item_collections.json;
 python get_color_data.py ../data/captures.json ../img/items/ ../data/item_hsl.json 3;
